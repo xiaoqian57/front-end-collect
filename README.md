@@ -70,7 +70,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 
 
 
-######国外博客
+###### 国外博客
 |名称 |活跃度 | 原创度 | 维护者|其他|
 | ----- | ----- | ------ |----- |------|
 |[Smashing Magazine](http://www.smashingmagazine.com/)|★★★★★|★★★★★| # |业界权威，web 设计很赞|
@@ -161,7 +161,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |屈光宇|[Jerry Qu的小站](https://imququ.com/)|[屈光宇](http://weibo.com/jerryqu)|#|#|#|奇虎360前端，对WEB性能研究很深入|
 
 
-####一些社区
+#### 一些社区
 
 |名称 |地址 |介绍 |
 |-----|-----|------|
@@ -219,7 +219,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 
 =======
 
-####线上的一些翻译版好书
+#### 线上的一些翻译版好书
 
 |书名|地址|作者|译者|介绍|
 |----|----|----|----|----|
@@ -227,7 +227,6 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 | Material Design 中文版 | http://design.1sters.com/ | Google设计手册 | 协同翻译 | Google I/O 2014 发布的 Material Design 官方手册的中文翻译 |
 
 
-##关于
-======
+## 关于
 
 本 repo 会 不断更新，感谢推荐和分享新资源的朋友。
